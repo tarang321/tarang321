@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Hi, I am Naman Jain <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center"> Hi, I am Tarang Srivas <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> </p>
@@ -25,7 +25,7 @@
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Self-nasu&show_icons=true&theme=dark&locale=en&hide_border=true" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=tarang321&show_icons=true&theme=dark&locale=en&hide_border=true" /></td>
 <!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Self-nasu&theme=dark&hide_border=true&layout=compact"></td> -->
   </tr>
 </table>
