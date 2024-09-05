@@ -3,22 +3,23 @@
          height="45"
          width="45" /></h1> </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/nasu1708/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://www.hackerrank.com/profile/nasuchacha1708"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<a href="https://www.instagram.com/self.nasu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:namanjain2002qw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/tarang-srivas-b192ab213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.instagram.com/tarang_srivas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="mailto:tarangsrivas1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 
-* 🔍 AI/ML enthusiast, skilled in Python, TensorFlow, and Scikit-learn. Currently mastering AI/ML while pursuing MCA from [SPSU, Udaipur](https://www.spsu.ac.in).
+* 🎓 Education: Pursuing M.Tech in VLSI Design at IIT Jammu (2024-2026), completed B.Tech in Electrical, Electronics & Communications Engineering from Sir Padampat Singhania University. [SPSU, Udaipur](https://www.spsu.ac.in).
 
-* 💻 Proficient web developer with expertise in HTML5, CSS, Bootstrap, JS, ReactJS, Firebase, NodeJS, Django, MySQL, and MongoDB. Check out my repositories for projects.
+* 💼 Work Experience:
 
-* 📚 Curated repositories on DSA using Python, documenting my learning journey.
+>Teaching Assistant at IIT Jammu (2024-present).
+>Electronics Engineer at Prileo Solutions & RoomsVital (2023-2024).
+>Vocational Trainer at Nuclear Power Corporation (2023-2024).
 
-* 🐍 Python lover, captivated by its versatility.
+* 🛠️ Skills & Certifications: Expertise in VLSI Design, IoT, Embedded Systems, Arduino, PCB Design, and Google Ads.
 
-* 📝 Published author with two abstracts in "The Essence (ISSN 2249-0132)" presented at the International Research Convention 2024: "Deficiency of AI in Mathematics" and "Decoding School Dropout Rate Factors Using Machine Learning Models."
+* 🏅 Leadership: Senior under officer in National Cadet Corps, showcasing leadership and teamwork.
 
 
 ***
