@@ -1,73 +1,151 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/antonkomarev/antonkomarev/master/images/header.svg" alt="Loading Operative Banner"/>
+  
+  ## `DOSSIER FILE: T. SRIVAS`
+  **OPERATIVE ID:** Cybernetic Architect & VLSI Field Engineer <br>
+  **STATUS:** <span style="color: #23d18b;">ACTIVE</span> <br>
+  **LAST SYNC:** `Tuesday, 07 October 2025`
 </div>
 
-<div id="header" align="center">
-  <h1>
-    :: INITIATING PROTOCOL :: TARANG SRIVAS ::
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" />
-  </h1>
+<div align="center">
+  <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=tarang321&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views"/>
+    <a href="https://www.linkedin.com/in/tarang-srivas-b192ab213/"><img src="https://img.shields.io/badge/Secure_Comlink-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:tarangsrivas1@gmail.com"><img src="https://img.shields.io/badge/Encrypted_Message-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <img src="https://komarev.com/ghpvc/?username=tarang321&label=DOSSIER_VIEWS&color=2f89fc&style=for-the-badge">
   </p>
 </div>
 
+---
+
+### `> QUERY: PRIMARY_DIRECTIVE.sh`
+```bash
+# SCRIPT INITIATED... DECRYPTING CORE MISSION DATA.
+
+echo "Designating Operative: Tarang Srivas"
+# Designates the primary agent for this dossier.
+
+echo "Assigning Current Mission: M.Tech, VLSI Design @ IIT Jammu"
+# Mission Timeline: 2024-2026
+# Objective: Master nanoscale circuit fabrication and architect next-generation silicon.
+
+echo "Authorizing Access to Past Field Operations..."
+# Access granted. See Service Record below for details on previous deployments.
+
+echo "Primary Mandate: To engineer the hardware that powers tomorrow's world."
+# This is the core principle guiding all operations.
+
+# SCRIPT COMPLETE.
+> ANALYZING: COMPETENCY_MATRIX.cfg
+<details>
+<summary><strong>[+] CORE_COMPETENCIES // VLSI & SEMICONDUCTOR DESIGN</strong></summary>
+
+
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/tarang-srivas-b192ab213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/tarang_srivas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:tarangsrivas1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dverilog,powershell" />
+
+
+
+<em><sub>VLSI Design • Verilog/VHDL • Cadence/Synopsys Toolchains • Semiconductor Physics</sub></em>
 </div>
 
----
 
-### 🚀 `>_MISSION_LOG`
 
-> Greetings, fellow traveler of the digital cosmos. I am **Tarang Srivas**, an engineer navigating the complex circuits of **VLSI Design** and **Embedded Systems**. My current mission is to architect the silicon foundations of future technology while pursuing my M.Tech at the prestigious **Indian Institute of Technology, Jammu**.
->
-> My journey has taken me from designing robust electronics at **Prileo Solutions** to training cadets at the **Nuclear Power Corporation**, and even leading a squadron in the **National Cadet Corps**. I thrive on challenges, whether it's fabricating a microchip or leading a team to success.
+</details>
 
----
+<details>
+<summary><strong>[+] TECHNICAL_PROTOCOLS // EMBEDDED SYSTEMS & IOT</strong></summary>
 
-### 📡 `>_SKILLSET_MATRIX`
 
-My arsenal is equipped with a diverse range of technologies and skills, allowing me to tackle challenges across the hardware-software spectrum.
-
--   **Core Expertise:** VLSI Design, IoT Architecture, Embedded Systems, PCB Design
--   **Languages & Frameworks:** C/C++, Verilog, VHDL, Python, Arduino
--   **Tools & Platforms:** Cadence, Synopsys, MATLAB, Google Cloud, Git/GitHub
--   **Certifications:** Google Ads, Advanced PCB Design
-
----
-
-### 📊 `>_HOLODECK_ANALYTICS`
-
-Here's a live data feed from my GitHub quadrant.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarang321&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tarang's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarang321&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python,arduino,raspberrypi" />
+
+
+
+<em><sub>C/C++ • Python • IoT Architecture • RTOS • Microcontroller Programming</sub></em>
 </div>
 
----
 
-### 🌌 `>_CONTRIBUTION_GALAXY`
 
-A visualization of my activity across the GitHub universe. Each commit is a star in my ever-expanding galaxy.
+</details>
+
+<details>
+<summary><strong>[+] FIELD_INSTRUMENTS // TOOLS & PLATFORMS</strong></summary>
+
+
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarang321&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,matlab,linux" />
+
+
+
+<em><sub>Git/GitHub • VS Code • MATLAB • Linux Environments • PCB Design (KiCad/Altium)</sub></em>
 </div>
 
----
+
+
+</details>
+
+> LOADING: SERVICE_RECORD.log
+<table>
+<tr>
+<td valign="top" width="100">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/tarang321/tarang321/main/assets/iitj.png" width="80" alt="IIT Jammu Icon"/>
+</td>
+<td valign="top">
+<strong>Teaching Assistant</strong> @ <em>Indian Institute of Technology, Jammu</em>
+
+
+
+<sub><strong>[2024-PRESENT]</strong></sub>
+
+
+
+<sub>Mentoring next-gen engineers in advanced digital electronics and VLSI concepts.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top" width="100">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/tarang321/tarang321/main/assets/circuits.png" width="80" alt="Electronics Icon"/>
+</td>
+<td valign="top">
+<strong>Electronics Engineer</strong> @ <em>Prileo Solutions & RoomsVital</em>
+
+
+
+<sub><strong>[2023-2024]</strong></sub>
+
+
+
+<sub>Architected and deployed embedded systems and IoT solutions for smart infrastructure.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top" width="100">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/tarang321/tarang321/main/assets/nuclear.png" width="80" alt="NPCIL Icon"/>
+</td>
+<td valign="top">
+<strong>Vocational Trainer</strong> @ <em>Nuclear Power Corporation (NPCIL)</em>
+
+
+
+<sub><strong>[2023-2024]</strong></sub>
+
+
+
+<sub>Conducted specialized training on critical control and instrumentation systems.</sub>
+</td>
+</tr>
+</table>
+
+> RENDERING: SYSTEM_TELEMETRY.gfx
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtarang321%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" width="49%" alt="GitHub Stats"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dtarang321%26theme%3Dtokyonight%26hide_border%3Dtrue" width="49%" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
-  ### If our trajectories align, feel free to connect or star a repository!
-  <p>✨ May your code be bug-free and your circuits always closed. ✨</p>
+//_DOSSIER_CLOSED
 </div>
