@@ -1,73 +1,62 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/antonkomarev/antonkomarev/master/images/header.svg" width="600" alt="Operative Dossier Banner"/>
 </div>
 
 <div id="header" align="center">
-  <h1>
-    :: INITIATING PROTOCOL :: TARANG SRIVAS ::
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" />
-  </h1>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=tarang321&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views"/>
-  </p>
+<h1>
+:: DOSSIER FILE :: TARANG SRIVAS ::
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" />
+</h1>
+<p>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtarang321%26label%3DDOSSIER_VIEWS%26color%3D2f89fc%26style%3Dflat" alt="profile views"/>
+</p>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tarang-srivas-b192ab213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/tarang_srivas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:tarangsrivas1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<a href="https://www.linkedin.com/in/tarang-srivas-b192ab213/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Secure_Comlink-LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="mailto:tarangsrivas1@gmail.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Encrypted_Message-Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail"/>
+</a>
 </div>
 
----
+🚀 >_PRIMARY_DIRECTIVE
+Accessing core mission data... Decryption complete. My designation is Tarang Srivas, a Cybernetic Architect currently undertaking a primary mission: pursuing an M.Tech in VLSI Design at the Indian Institute of Technology, Jammu (2024-2026).
 
-### 🚀 `>_MISSION_LOG`
+My mandate is to engineer the hardware that powers tomorrow's world. Past field operations include deploying IoT solutions at Prileo Solutions, conducting specialized training at the Nuclear Power Corporation, and honing strategic leadership as a Senior Under Officer in the National Cadet Corps.
 
-> Greetings, fellow traveler of the digital cosmos. I am **Tarang Srivas**, an engineer navigating the complex circuits of **VLSI Design** and **Embedded Systems**. My current mission is to architect the silicon foundations of future technology while pursuing my M.Tech at the prestigious **Indian Institute of Technology, Jammu**.
->
-> My journey has taken me from designing robust electronics at **Prileo Solutions** to training cadets at the **Nuclear Power Corporation**, and even leading a squadron in the **National Cadet Corps**. I thrive on challenges, whether it's fabricating a microchip or leading a team to success.
+📡 >_COMPETENCY_MATRIX
+My operational capabilities are classified across the following domains, ensuring mission readiness for any hardware or software challenge.
 
----
+CORE COMPETENCIES: VLSI Design, Verilog/VHDL, Cadence/Synopsys Toolchains, Semiconductor Physics
 
-### 📡 `>_SKILLSET_MATRIX`
+TECHNICAL PROTOCOLS: C/C++, Python, IoT Architecture, RTOS, Embedded Systems
 
-My arsenal is equipped with a diverse range of technologies and skills, allowing me to tackle challenges across the hardware-software spectrum.
+FIELD INSTRUMENTS: Git/GitHub, VS Code, MATLAB, Linux Environments, PCB Design (KiCad/Altium)
 
--   **Core Expertise:** VLSI Design, IoT Architecture, Embedded Systems, PCB Design
--   **Languages & Frameworks:** C/C++, Verilog, VHDL, Python, Arduino
--   **Tools & Platforms:** Cadence, Synopsys, MATLAB, Google Cloud, Git/GitHub
--   **Certifications:** Google Ads, Advanced PCB Design
-
----
-
-### 📊 `>_HOLODECK_ANALYTICS`
-
-Here's a live data feed from my GitHub quadrant.
+📊 >_SYSTEM_TELEMETRY
+Here is a live telemetry feed from my operational quadrant.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarang321&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tarang's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarang321&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtarang321%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Tarang's GitHub Stats"/>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dtarang321%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak"/>
 </div>
 
----
-
-### 🌌 `>_CONTRIBUTION_GALAXY`
-
-A visualization of my activity across the GitHub universe. Each commit is a star in my ever-expanding galaxy.
+🌌 >_CONTRIBUTION_MAP
+A real-time visualization of my development activity across the GitHub sector.
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarang321&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dtarang321%26theme%3Dtokyonight%26hide_border%3Dtrue%26area%3Dtrue%26line%3Dbb9af7%26point%3D7dcfff" width="100%" alt="Contribution Graph"/>
 </div>
 
----
-
 <div align="center">
-  ### If our trajectories align, feel free to connect or star a repository!
-  <p>✨ May your code be bug-free and your circuits always closed. ✨</p>
+
+Awaiting your signal. Feel free to establish a secure comlink.
+<p>✨ //_DOSSIER_CLOSED ✨</p>
 </div>
